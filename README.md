@@ -1,2 +1,1 @@
-# TestGit
-This is for testing git.
+hello world this is test git for begginner tutorial.
